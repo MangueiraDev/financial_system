@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+.env
+
+# Build
+dist/
+build/
+
+# Configurações locais
+.vscode/
+*.log
+
+# Outros
+*.lock
